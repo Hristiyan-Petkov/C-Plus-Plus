@@ -1,0 +1,14 @@
+﻿  SD_homework1_71865.cpp
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(51): warning C4244: '=': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(108): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(120): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(189): warning C4244: '=': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(260): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(394): warning C4244: '=': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(417): warning C4018: '<': signed/unsigned mismatch
+c:\users\hari\source\repos\sd_homework1_71865\sd_homework1_71865\sd_homework1_71865.cpp(438): warning C4018: '<': signed/unsigned mismatch
+  SD_homework1_71865.vcxproj -> C:\Users\Hari\source\repos\SD_homework1_71865\Debug\SD_homework1_71865.exe
